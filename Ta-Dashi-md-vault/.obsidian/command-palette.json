@@ -1,0 +1,9 @@
+{
+  "pinned": [
+    "insert-template",
+    "file-explorer:move-file",
+    "file-explorer:reveal-active-file",
+    "outline:open-for-current",
+    "graph:open-local"
+  ]
+}

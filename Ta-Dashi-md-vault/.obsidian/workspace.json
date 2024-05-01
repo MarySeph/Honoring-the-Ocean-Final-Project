@@ -8,51 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1a77583a285fba25",
+            "id": "e9f48d978e6d65a0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "+ Start Here.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "f1a9b0ec26261cbe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Writing/Metatext/Dashi.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "29148fa1fad940c3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Atlas/MOCs/Characters.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "5661576ecffef5c1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Writing/Metatext/Hikage Tadatsugu.md",
+                "file": "Writing/Metatext/Health.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -126,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "+ Start Here.md",
+                "file": "Writing/Metatext/Health.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "+ Start Here.md",
+                "file": "Writing/Metatext/Health.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+ Start Here.md"
+                "file": "Writing/Metatext/Health.md"
               }
             }
           },
@@ -181,9 +142,19 @@
                 "searchQuery": ""
               }
             }
+          },
+          {
+            "id": "8b8b99d72301d746",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Writing/Metatext/Health.md"
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -199,13 +170,18 @@
       "graph:Open graph view": false
     }
   },
-  "active": "1a77583a285fba25",
+  "active": "e9f48d978e6d65a0",
   "lastOpenFiles": [
-    "Writing/Metatext/Dashi.md",
-    "Atlas/MOCs/Characters.md",
-    "Writing/Metatext/Hikage Tadatsugu.md",
+    "Writing/Metatext/Tadashi's Room.md",
     "+ Start Here.md",
+    "Writing/Longform/A Little Story about Tadashi and Dashi.md",
+    "Writing/Metatext/Liminality.md",
     "Cards/Ta-Dashi (Tentative).md",
+    "Writing/Metatext/Health.md",
+    "Writing/Metatext/About this Project.md",
+    "Writing/Metatext/Dashi.md",
+    "Writing/Metatext/Hikage Tadatsugu.md",
+    "Atlas/MOCs/Characters.md",
     "Atlas/MOCs",
     "Atlas",
     "Cards/Templates/Template, People 👥.md",
@@ -239,10 +215,6 @@
     "Cards/Files",
     "Cards",
     "Writing/04 Metatext/Dashi.md",
-    "Writing/04 Metatext/Hikage Tadatsugu.md",
-    "Writing/03 Longform/Ta-Dashi (Tentative).md",
-    "Writing/04 Metatext/FULL Ryuugamine Kiyoshi (EAL).md",
-    "Writing/04 Metatext/Ryuugamine Kiyoshi.md",
     "Writing/02 Indices",
     "Writing/01 Seeds",
     "Untitled.canvas"

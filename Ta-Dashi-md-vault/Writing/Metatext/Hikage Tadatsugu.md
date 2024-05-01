@@ -93,8 +93,6 @@ Clothing designing, window shopping, social media, going out.
 ## Dislikes
 Dark colors, family, fatty foods, anything horror, tomboys, cold weather.
 
-## Gender & Sexuality
-
 ## Platonic Relationships
 Tadatsugu's relationship with his family is tense. Since he was a child, his parents encouraged technical and scientific interests and strongly rejected creative expression. Himeko, the older sister, fulfilled this expectation while Tadashi never bowed down. Both his talents and skills are traditionally artistic. This has earned his parents disapproval and strained their relationship. Currently, they are largely absent due to work. The Hikage family employs a housemaid who makes meal for the children and upkeeps the place.
 
